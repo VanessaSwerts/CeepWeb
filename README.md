@@ -2,6 +2,8 @@
 
 Projeto desenvolvido em React durante os cursos de **React: Entendendo como a biblioteca funciona** e **React: Ciclo de vida dos componentes** da [Alura](https://cursos.alura.com.br/). 
 
+![ceep](https://user-images.githubusercontent.com/57146734/92316349-046def80-efc9-11ea-8a37-2956c9ff5b4e.gif)
+
 ## Conceitos aplicados
   - Class components
   - Bind
